@@ -17,7 +17,7 @@
  *    under the License.
  */
 
-#define _BSD_SOURCE
+#define _DEFAULT_SOURCE
 
 #ifdef HAVE_CONFIG_H
 #include <config.h>
